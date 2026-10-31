@@ -1,18 +1,14 @@
 <div align="center">
 
-```
-███╗   ███╗██╗   ██╗███╗   ██╗███████╗███████╗██████╗ 
-████╗ ████║██║   ██║████╗  ██║██╔════╝██╔════╝██╔══██╗
-██╔████╔██║██║   ██║██╔██╗ ██║█████╗  █████╗  ██████╔╝
-██║╚██╔╝██║██║   ██║██║╚██╗██║██╔══╝  ██╔══╝  ██╔══██╗
-██║ ╚═╝ ██║╚██████╔╝██║ ╚████║███████╗███████╗██████╔╝
-╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚══════╝╚═════╝ 
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img src="assets/banner-light.svg" width="100%" alt="Muneeb Anjum — data and AI engineer">
+</picture>
 
-**Data & AI engineer** — I build the measurement tools I kept needing and couldn't find.
+**I build the measurement tools I kept needing and couldn't find.**
 
-AI security · LLM evaluation · quantisation · developer tooling
-`Islamabad, Pakistan` · `@turing` · [`muneebs.space`](https://muneebs.space) · [`ORCID 0009-0001-2042-7656`](https://orcid.org/0009-0001-2042-7656)
+[`muneebs.space`](https://muneebs.space) · [`ORCID`](https://orcid.org/0009-0001-2042-7656) · [`LinkedIn`](https://www.linkedin.com/in/muneeb-anjum) · [`@turing`](https://www.turing.com)
 
 </div>
 
@@ -24,10 +20,10 @@ Four packages I maintain end to end — tests, docs, CI, and a release I can poi
 
 | Package | What it does | |
 |:--|:--|:--|
-| [`datasets-lint`](https://pypi.org/project/datasets-lint/) | `ruff` for training data — duplicates, PII, eval-set contamination, schema drift, label leakage, with `--fix` codemods and SARIF output | [![PyPI](https://img.shields.io/pypi/v/datasets-lint?style=flat-square&logo=pypi&logoColor=white&label=PyPI&color=3775A9)](https://pypi.org/project/datasets-lint/) [![CI](https://img.shields.io/github/actions/workflow/status/horizonbymuneeb/datasets-lint/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/horizonbymuneeb/datasets-lint/actions/workflows/ci.yml) |
-| [`naqsha-cli`](https://www.npmjs.com/package/naqsha-cli) | Architecture diagrams as code — lint, JSON schema, static export, and a self-contained viewer with zoom and copy-PNG | [![npm](https://img.shields.io/npm/v/naqsha-cli?style=flat-square&logo=npm&label=npm&color=CB3837)](https://www.npmjs.com/package/naqsha-cli) [![CI](https://img.shields.io/github/actions/workflow/status/horizonbymuneeb/naqsha/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/horizonbymuneeb/naqsha/actions/workflows/ci.yml) |
-| [`refilm`](https://www.npmjs.com/package/refilm) | Visual regression for DOM state — SVG+PNG frames, `watch` loop for development, `accept` to promote baselines with an audit trail | [![npm](https://img.shields.io/npm/v/refilm?style=flat-square&logo=npm&label=npm&color=CB3837)](https://www.npmjs.com/package/refilm) [![CI](https://img.shields.io/github/actions/workflow/status/horizonbymuneeb/refilm/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/horizonbymuneeb/refilm/actions/workflows/ci.yml) |
-| [`relabeld`](https://www.npmjs.com/package/relabeld) | Deterministic re-labelling for annotated screenshots — recipes, diff reports, screenshot evidence in CI | [![npm](https://img.shields.io/npm/v/relabeld?style=flat-square&logo=npm&label=npm&color=CB3837)](https://www.npmjs.com/package/relabeld) [![CI](https://img.shields.io/github/actions/workflow/status/horizonbymuneeb/relabel/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/horizonbymuneeb/relabel/actions/workflows/ci.yml) |
+| **[datasets-lint](https://pypi.org/project/datasets-lint/)** | `ruff` for training data — duplicates, PII, eval-set contamination, schema drift, label leakage, with `--fix` codemods and SARIF output | [![PyPI](https://img.shields.io/pypi/v/datasets-lint?style=flat-square&logo=pypi&logoColor=white&label=PyPI&color=3775A9)](https://pypi.org/project/datasets-lint/) [![CI](https://img.shields.io/github/actions/workflow/status/horizonbymuneeb/datasets-lint/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/horizonbymuneeb/datasets-lint/actions/workflows/ci.yml) |
+| **[naqsha-cli](https://www.npmjs.com/package/naqsha-cli)** | Architecture diagrams as code — lint, JSON schema, static export, and a self-contained viewer with zoom and copy-PNG | [![npm](https://img.shields.io/npm/v/naqsha-cli?style=flat-square&logo=npm&label=npm&color=CB3837)](https://www.npmjs.com/package/naqsha-cli) [![CI](https://img.shields.io/github/actions/workflow/status/horizonbymuneeb/naqsha/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/horizonbymuneeb/naqsha/actions/workflows/ci.yml) |
+| **[refilm](https://www.npmjs.com/package/refilm)** | Visual regression for DOM state — SVG+PNG frames, `watch` loop for development, `accept` to promote baselines with an audit trail | [![npm](https://img.shields.io/npm/v/refilm?style=flat-square&logo=npm&label=npm&color=CB3837)](https://www.npmjs.com/package/refilm) [![CI](https://img.shields.io/github/actions/workflow/status/horizonbymuneeb/refilm/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/horizonbymuneeb/refilm/actions/workflows/ci.yml) |
+| **[relabeld](https://www.npmjs.com/package/relabeld)** | Deterministic re-labelling for annotated screenshots — recipes, diff reports, screenshot evidence in CI | [![npm](https://img.shields.io/npm/v/relabeld?style=flat-square&logo=npm&label=npm&color=CB3837)](https://www.npmjs.com/package/relabeld) [![CI](https://img.shields.io/github/actions/workflow/status/horizonbymuneeb/relabel/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/horizonbymuneeb/relabel/actions/workflows/ci.yml) |
 
 **On GitHub Marketplace** — the same tools, running where the code already is:
 
