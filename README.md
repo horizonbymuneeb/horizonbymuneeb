@@ -18,7 +18,7 @@
 
 Four packages I maintain end to end — tests, docs, CI, and a release I can point at.
 
-| Package | What it does | |
+| Package | What it does | Release |
 |:--|:--|:--|
 | **[datasets&#8209;lint](https://pypi.org/project/datasets-lint/)** | `ruff` for training data — duplicates, PII, eval-set contamination, schema drift, label leakage, with `--fix` codemods and SARIF output | [![PyPI](https://img.shields.io/pypi/v/datasets-lint?style=flat-square&logo=pypi&logoColor=white&label=PyPI&color=3775A9)](https://pypi.org/project/datasets-lint/) [![CI](https://img.shields.io/github/actions/workflow/status/horizonbymuneeb/datasets-lint/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/horizonbymuneeb/datasets-lint/actions/workflows/ci.yml) |
 | **[naqsha&#8209;cli](https://www.npmjs.com/package/naqsha-cli)** | Architecture diagrams as code — lint, JSON schema, static export, and a self-contained viewer with zoom and copy-PNG | [![npm](https://img.shields.io/npm/v/naqsha-cli?style=flat-square&logo=npm&label=npm&color=CB3837)](https://www.npmjs.com/package/naqsha-cli) [![CI](https://img.shields.io/github/actions/workflow/status/horizonbymuneeb/naqsha/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/horizonbymuneeb/naqsha/actions/workflows/ci.yml) |
@@ -27,13 +27,11 @@ Four packages I maintain end to end — tests, docs, CI, and a release I can poi
 
 **On GitHub Marketplace** — the same tools, running where the code already is:
 
-<p align="center">
-
-[![Naqsha Diagrams](https://img.shields.io/badge/Marketplace-Naqsha_Diagrams-2ea043?style=flat-square&logo=github&logoColor=white)](https://github.com/marketplace/actions/naqsha-diagrams)
-[![Refilm Verify](https://img.shields.io/badge/Marketplace-Refilm_Verify-2ea043?style=flat-square&logo=github&logoColor=white)](https://github.com/marketplace/actions/refilm-verify)
-[![Relabel Verify](https://img.shields.io/badge/Marketplace-Relabel_Verify-2ea043?style=flat-square&logo=github&logoColor=white)](https://github.com/marketplace/actions/relabel-verify)
-
-</p>
+<div align="center">
+  <a href="https://github.com/marketplace/actions/naqsha-diagrams"><img src="https://img.shields.io/badge/Marketplace-Naqsha%20Diagrams-2ea043?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Naqsha Diagrams"></a>
+  <a href="https://github.com/marketplace/actions/refilm-verify"><img src="https://img.shields.io/badge/Marketplace-Refilm%20Verify-2ea043?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Refilm Verify"></a>
+  <a href="https://github.com/marketplace/actions/relabel-verify"><img src="https://img.shields.io/badge/Marketplace-Relabel%20Verify-2ea043?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Relabel Verify"></a>
+</div>
 
 <p align="center"><sub>4 packages · 3 Marketplace Actions · 500+ tests · 92% coverage on datasets-lint</sub></p>
 
