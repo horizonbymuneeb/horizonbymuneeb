@@ -8,7 +8,7 @@
 
 **I build the measurement tools I kept needing and couldn't find.**
 
-[`muneebs.space`](https://muneebs.space) · [`ORCID`](https://orcid.org/0009-0001-2042-7656) · [`LinkedIn`](https://www.linkedin.com/in/muneeb-anjum) · [`@turing`](https://www.turing.com)
+[`muneebs.space`](https://muneebs.space) · [`ORCID`](https://orcid.org/0009-0001-2042-7656) · [`LinkedIn`](https://www.linkedin.com/in/tmuneebanjum) · [`@turing`](https://www.turing.com)
 
 </div>
 
@@ -106,6 +106,6 @@ agents = "MCP, tool-calling, RAG, evaluation harnesses"
 
 <sub>Writing code, then measuring what it actually does.</sub>
 
-[`muneebs.space`](https://muneebs.space) · [`GitHub`](https://github.com/horizonbymuneeb) · [`ORCID`](https://orcid.org/0009-0001-2042-7656) · [`LinkedIn`](https://www.linkedin.com/in/muneeb-anjum)
+[`muneebs.space`](https://muneebs.space) · [`GitHub`](https://github.com/horizonbymuneeb) · [`ORCID`](https://orcid.org/0009-0001-2042-7656) · [`LinkedIn`](https://www.linkedin.com/in/tmuneebanjum)
 
 </div>
