@@ -20,10 +20,13 @@ Four packages I maintain end to end — tests, docs, CI, and a release I can poi
 
 - **[datasets&#8209;lint](https://pypi.org/project/datasets-lint/)** ![PyPI](https://img.shields.io/pypi/v/datasets-lint?style=flat-square&logo=pypi&logoColor=white&label=PyPI&color=3775A9) ![CI](https://img.shields.io/github/actions/workflow/status/horizonbymuneeb/datasets-lint/ci.yml?branch=main&style=flat-square&label=CI)<br>
   `ruff` for training data — duplicates, PII, eval-set contamination, schema drift, label leakage, with `--fix` codemods and SARIF output
+
 - **[naqsha&#8209;cli](https://www.npmjs.com/package/naqsha-cli)** ![npm](https://img.shields.io/npm/v/naqsha-cli?style=flat-square&logo=npm&label=npm&color=CB3837) ![CI](https://img.shields.io/github/actions/workflow/status/horizonbymuneeb/naqsha/ci.yml?branch=main&style=flat-square&label=CI)<br>
   Architecture diagrams as code — lint, JSON schema, static export, and a self-contained viewer with zoom and copy-PNG
+
 - **[refilm](https://www.npmjs.com/package/refilm)** ![npm](https://img.shields.io/npm/v/refilm?style=flat-square&logo=npm&label=npm&color=CB3837) ![CI](https://img.shields.io/github/actions/workflow/status/horizonbymuneeb/refilm/ci.yml?branch=main&style=flat-square&label=CI)<br>
   Visual regression for DOM state — SVG+PNG frames, a `watch` loop for development, and `accept` to promote baselines with an audit trail
+
 - **[relabeld](https://www.npmjs.com/package/relabeld)** ![npm](https://img.shields.io/npm/v/relabeld?style=flat-square&logo=npm&label=npm&color=CB3837) ![CI](https://img.shields.io/github/actions/workflow/status/horizonbymuneeb/relabel/ci.yml?branch=main&style=flat-square&label=CI)<br>
   Deterministic re-labelling for annotated screenshots — recipes, diff reports, screenshot evidence in CI
 
